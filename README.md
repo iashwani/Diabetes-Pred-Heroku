@@ -1,1 +1,1 @@
-# diabetes-pred-heroku
+# Predictive models for diabetes
